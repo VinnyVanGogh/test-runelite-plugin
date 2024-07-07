@@ -1,1 +1,6 @@
-rootProject.name = 'example'
+rootProject.name = 'test-runelite-plugin'
+displayName=Vinnys Test Plugin
+author=Vinny
+description=This is a test plugin will be filling in more information later
+tags=testing,plugin,runelite
+plugins=com.vinny.testplugin.TestPlugin
